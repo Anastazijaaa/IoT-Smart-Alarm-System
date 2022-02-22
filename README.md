@@ -6,5 +6,5 @@ It is using HC-SR501 motion detector, buzzer, LED diode and resistor - when a mo
 Mobile application is made through Blynk and web application is made with concept of websocket. Through each of those applications it is possible to control this alarm system (On/Off options) and to get mobile and e-mail notifications.
 
 
-![image](https://user-images.githubusercontent.com/68011767/155223166-27d96016-6ecf-49b3-b661-d2d11648d07f.png)
+![image](https://user-images.githubusercontent.com/68011767/155223321-85331fd8-aa3b-46fe-a617-9ec21bbe4e2e.png)
 
